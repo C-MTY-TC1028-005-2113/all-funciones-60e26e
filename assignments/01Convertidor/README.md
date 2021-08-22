@@ -20,8 +20,11 @@ el programa la va a ignorar al ejecutarse.
 
 Escribe un programa que convierta pies, pulgadas y yardas a centímetros, para lo cual debes definir tres funciones:
 - La función **pies_cm(pies)** que recibe una cantidad en `pies`(entero positivo) y devuelva su equivalencia en centímetros.
+        - 1 pie corresponde a 30.48 cm 
 - La función **pulgadas_cm(pulgadas)** que recibe una cantidad en `pulgadas`(entero positivo) y devuelva su equivalencia en centímetros.
+        -  1 pulgada equivale a 2.54 cm
 - La función **yardas_cm(yardas)** que recibe una cantidad en `yardas`(entero positivo) y devuelva su equivalencia en centímetros.
+        - 1 yarda equivale a 91.44 cm
 
 **Entradas**
 - La opción a ejecutar (`1. pies a cm, 2. pulgadas a cm, 3. yardas a cm`). 
