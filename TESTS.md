@@ -9,56 +9,56 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 01 Convertidor
+- ## A01 Convertidor
     ### Run command
     ```
-    pytest assignments/01Convertidor
+    pytest assignments/A01Convertidor
     ```
 
-- ## 02 Calcula Grado
+- ## A02 Calcula Grado
     ### Run command
     ```
-    pytest assignments/02CalculaGrado
+    pytest assignments/A02CalculaGrado
     ```
 
-- ## 04 Tienda Sillas
+- ## A04 Tienda Sillas
     ### Run command
     ```
-    pytest assignments/04TiendaSillas
+    pytest assignments/A04TiendaSillas
     ```
 
-- ## 05 Binario - Decimal
+- ## A05 Binario - Decimal
     ### Run command
     ```
-    pytest assignments/05BinarioDecimal
+    pytest assignments/A05BinarioDecimal
     ```
 
-- ## 06 Area Prisma Rectangular
+- ## A06 Area Prisma Rectangular
     ### Run command
     ```
-    pytest assignments/06AreaPrismaRectangular
+    pytest assignments/A06AreaPrismaRectangular
     ```
 
-- ## 07 Volumen Prisma Rectangular
+- ## A07 Volumen Prisma Rectangular
     ### Run command
     ```
-    pytest assignments/07VolumenPrismaRectangular
+    pytest assignments/A07VolumenPrismaRectangular
     ```
 
-- ## 08 Tarjeteria Española
+- ## A08 Tarjeteria Española
     ### Run command
     ```
-    pytest assignments/08TarjeteriaEspanola
+    pytest assignments/A08TarjeteriaEspanola
     ```
 
-- ## 09 Area Rectángulo
+- ## A09 Area Rectángulo
     ### Run command
     ```
-    pytest assignments/09AreaRectangulo
+    pytest assignments/A09AreaRectangulo
     ```
 
-- ## 10 Oraciones
+- ## Aß 10 Oraciones
     ### Run command
     ```
-    pytest assignments/10Oraciones
+    pytest assignments/A10Oraciones
     ```
